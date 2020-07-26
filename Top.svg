@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1378.989" height="1356.367" viewBox="0 0 1378.989 1356.367">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Holder" d="M0,0H-1378.938s-.051,755.754-.051,832.815c109.341-1.439,256.04-34.947,466.558-102.218C-373.862,570.194,0,1356.367,0,1356.367Z" transform="translate(0 0)" fill="#4e259f"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1.336" x2="0.5" y2="0.371" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#7952ca"/>
+      <stop offset="1" stop-color="#855ed2" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="Top" transform="translate(1378.989 0)">
+    <path id="Holder-2" data-name="Holder" d="M0,0H-1378.938s-.051,755.754-.051,832.815c109.341-1.439,256.04-34.947,466.558-102.218C-373.862,570.194,0,1356.367,0,1356.367Z" transform="translate(0 0)" fill="#4e259f"/>
+    <g id="Top-2" data-name="Top" clip-path="url(#clip-path)">
+      <path id="Rectangle_18" data-name="Rectangle 18" d="M0,0H-1900s-506.837,1058.6-49,1211.8c127.281,42.59,224.7,57.512,309,52.036,129.628-8.42,235.7-41.221,365.765-80.031,89.609-26.739,187.6-66.8,327.492-66.8,475,0,854.3,465,854.3,465Z" transform="translate(261 -474)" opacity="0.285" fill="url(#linear-gradient)"/>
+      <path id="Rectangle_18_Copy" data-name="Rectangle 18 Copy" d="M0,0H-1900s-1000.7,604.7-363.1,1068c266.039,193.312,456.228,248.67,623.1,247.3,233.063-1.918,419.789-114.3,696.6-114.3,475,0,902.5,330.3,902.5,330.3Z" transform="translate(261 -605)" opacity="0.285" fill="url(#linear-gradient)"/>
+      <path id="Rectangle_18_Copy_3" data-name="Rectangle 18 Copy 3" d="M0,0H-1900s-1024,748.328-378,1146.07c273.5,168.391,468.227,221.542,638,224.24,231.233,3.675,414.5-101.439,688.4-101.439,241.863,0,473.627,56.87,690.6,127.65C-193.894,1418.413-64,1468-64,1468Z" transform="translate(261 -728)" opacity="0.285" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>

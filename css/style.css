@@ -1,0 +1,87 @@
+html,
+body {
+  width: 100%;
+}
+body {
+  background: url(/background.svg) no-repeat;
+}
+
+.search-input {
+  background-color: transparent;
+  border: none;
+  color: white;
+}
+
+.text-theme {
+  color: #6b44ba;
+}
+
+.bg-theme {
+  background-color: rgba(60, 22, 127, 0.1);
+}
+.bg-theme:hover {
+  background-color: rgba(60, 22, 127, 0.6);
+}
+.bg-theme:after {
+  content: "";
+  background-color: #ebb419;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 4px;
+  position: absolute;
+}
+
+.bg-theme:hover .fa-circle-thin {
+  color: yellow;
+}
+
+.bg-theme2 {
+  background-color: rgba(255, 255, 255, 1);
+}
+
+.spacer {
+  margin-top: 3.875rem;
+}
+.spacer2 {
+  margin-top: 12.1rem;
+}
+
+.spacer3 {
+  margin-top: 7.4375rem;
+}
+
+.spacer4 {
+  margin-top: 2.6rem;
+}
+
+.spacer5 {
+  margin-top: 4.5rem;
+}
+
+.spacer6 {
+  margin-top: 15.375rem;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.step-selector:after {
+  content: "";
+  background-color: #ebb419;
+  top: 0;
+  left: 0;
+  height: 10px;
+  width: 50%;
+  position: absolute;
+}
+.step-selector::before {
+  content: "";
+  background-color: #3c167f;
+  top: 0;
+  right: 0;
+  height: 10px;
+  width: 50%;
+  position: absolute;
+}
